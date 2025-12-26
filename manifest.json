@@ -1,0 +1,21 @@
+{
+  "name": "Chinakampalle Gangoli — Portfolio",
+  "short_name": "Gangoli",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#6366f1",
+  "description": "Portfolio showcasing projects and contact information for Chinakampalle Gangoli.",
+  "icons": [
+    {
+      "src": "assets/icons/icon-192.svg",
+      "sizes": "192x192",
+      "type": "image/svg+xml"
+    },
+    {
+      "src": "assets/icons/icon-512.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml"
+    }
+  ]
+}
